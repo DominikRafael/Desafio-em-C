@@ -130,7 +130,7 @@ int main() {
     printf("Área: Carta 1 venceu (%d)\n", resultadoArea);
     printf("PIB: Carta 1 venceu (%d)\n", resultadoPib);
     printf("Pontos Turísticos: Carta 1 venceu (%d)\n", resultadoPontos);
-    printf("Densidade Populacional: Carta 1 venceu (%d)\n", resultadoDensidade);
+    printf("Densidade Populacional: Carta 2 venceu (%d)\n", resultadoDensidade);
     printf("PIB per Capita: Carta 1 venceu (%d)\n", resultadoPibPerCapita);
     printf("Super Poder: Carta 1 venceu (%d)\n", resultadoSuperPoder);
 
