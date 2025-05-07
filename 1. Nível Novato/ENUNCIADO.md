@@ -78,7 +78,8 @@ Número de Pontos Turísticos: 30
 
   ---
 
-## 🧠 Autor
-Desenvolvido como parte de um desafio de programação para a faculdade.
+## 👨‍🎓 Trabalho Acadêmico
 
+- Este projeto foi desenvolvido como parte da disciplina de Introdução a programação de computadores, do curso de Ciência da Computação na Estacio.
 
+- Aluno: Dominik Rafael
